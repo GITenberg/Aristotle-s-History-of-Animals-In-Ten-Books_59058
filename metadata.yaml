@@ -5,6 +5,9 @@ contributor:
     agent_name: Cresswell, Richard
     gutenberg_agent_id: '50277'
     url: http://www.gutenberg.org/2009/agents/50277
+covers:
+- cover_type: archival
+  image_path: 59058-h/images/cover.jpg
 creator:
   author:
     agent_name: Aristotle
@@ -19,6 +22,8 @@ creator:
     - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
     - http://en.wikipedia.org/wiki/Aristotle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59058#Aristotle-s-History-of-Animals-In-Ten-Books
 gutenberg_issued: '2019-03-14'
 gutenberg_type: Text
 identifiers:
